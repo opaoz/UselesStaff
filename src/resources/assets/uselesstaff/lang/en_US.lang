@@ -1,0 +1,18 @@
+
+item.uselesstaff:blackDye.name=Black Dye
+
+item.uselesstaff:pickaxeHead.name=Burned pickaxe head
+item.uselesstaff:axeHead.name=Burned axe head
+item.uselesstaff:shovelHead.name=Burned shovel head
+item.uselesstaff:swordHead.name=Burned sword head
+
+item.uselesstaff:burnedPickaxe.name=Burned pickaxe
+item.uselesstaff:burnedAxe.name=Burned axe
+item.uselesstaff:burnedSword.name=Burned sword
+item.uselesstaff:burnedShovel.name=Burned Shovel
+
+
+tile.uselesstaff:Table.name=Table for Drinking
+tile.uselesstaff:boc.name=Block of Charcoal
+
+itemGroup.uselesstaff=Useless Staff

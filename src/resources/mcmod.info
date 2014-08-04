@@ -1,0 +1,21 @@
+[
+{
+  "modid": "UselesStaff",
+  "name": "Really Useless Staff",
+  "description": "opa's useless mod. Fuck Yeah!",
+  "version": "0.1",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "opa"
+  ],
+  "credits": "I love boobs!",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
